@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:rowCount="2"
+    android:columnCount="2"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent"
+    tools:context=".Main4Activity">
+
+    <ImageView
+        android:src="@drawable/act45"
+        android:layout_width="180dp"
+        />
+
+    <ImageView
+        android:src="@drawable/act41"
+        />
+    <ImageView
+        android:src="@drawable/act43"
+        />
+    <ImageView
+        android:src="@drawable/act44"
+        />
+
+</GridLayout>
